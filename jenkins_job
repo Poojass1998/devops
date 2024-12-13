@@ -1,0 +1,10 @@
+create a new job
+enter item name
+select frestyle project
+add description
+select github project
+paste url of git repository (twice)
+specify branch name
+build--> excecuteshell --> give command
+save and apply
+run build
